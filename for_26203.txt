@@ -1,0 +1,24 @@
+Malwa Bus – References and Sources
+
+Comparison apps
+- Chalo Indore: chalo.com/indore
+- Google Maps transit 
+
+Standards
+- AIS-140 Vehicle Location Tracking Devices and Emergency SOS Buttons (MoRTH / ARAI) 
+- GTFS-Realtime: gtfs.org/documentation/realtime
+- Digital Personal Data Protection Act, 2023: meity.gov.in
+
+Methods
+- Haversine distance formula: en.wikipedia.org/wiki/Haversine_formula
+- Map matching and routing: project-osrm.org
+- Open map data: openstreetmap.org
+
+Technology
+- Android Location Services: developer.android.com
+- FastAPI: fastapi.tiangolo.com
+- PostGIS: postgis.net
+- Web Push API: developer.mozilla.org/en-US/docs/Web/API/Push_API
+
+Urban mobility guideline
+- WRI Open E-bus Blueprint: wri-india.org
